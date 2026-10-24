@@ -1,9 +1,7 @@
 # just-a-little-frog-
 just a little frog is a game created for the October jame gam by me. (me being Jules Kingsland) 
-all assets used in the game aside from the main charecter and outfit emblems are from the pixel adventure pack by pixelfrog on itch.io
-main character and outfit emblems created by me (with wizard idea from my dad) 
-the tutorials I used to learn how to do this are: Start Your Game Creation Journey Today! (Godot beginner tutorial) by coco code, 
-LEVEL UP Your Game Design Toolkit (Godot for Beginners) by coco code, 
+the terrain and cherry assets are from the pixel adventure pack by pixelfrog on itch.io
+main character, trophy, outfits,  and outfit emblems created by me (with wizard idea from my dad) 
 
 !DISCLAMERRRRRR!
 this game is kind of LAME but its my first ever solo game and I learned a lot which is greatly reflected in the gameplay. so I apologize it is LAME but at least I am self aware. there is also no character animation which I am quite sad about but I could not get it to work properly and I ran out of time. 
